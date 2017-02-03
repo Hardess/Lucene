@@ -1,0 +1,11 @@
+F:\培训文件\图书商城\20130729\Code\PZYM.Shop\Model\bin\Release\PZYM.Shop.Model.dll
+F:\培训文件\图书商城\20130729\Code\PZYM.Shop\Model\obj\Release\PZYM.Shop.Model.dll
+C:\Users\PIZIYIMAO\Desktop\temp\PZYM.Shop\Model\bin\Release\PZYM.Shop.Model.dll
+C:\Users\PIZIYIMAO\Desktop\temp\PZYM.Shop\Model\obj\Release\PZYM.Shop.Model.dll
+C:\Users\PIZIYIMAO\Desktop\temp\PZYM.Shop\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+C:\Users\PIZIYIMAO\Desktop\上博\LuceneNet深入\PZYM.Shop\Model\bin\Release\PZYM.Shop.Model.dll
+C:\Users\PIZIYIMAO\Desktop\上博\LuceneNet深入\PZYM.Shop\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+C:\Users\PIZIYIMAO\Desktop\上博\LuceneNet深入\PZYM.Shop\Model\obj\Release\PZYM.Shop.Model.dll
+C:\Users\Admin\Desktop\新建文件夹\PZYM.Shop\Model\bin\Release\PZYM.Shop.Model.dll
+C:\Users\Admin\Desktop\新建文件夹\PZYM.Shop\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\新建文件夹\PZYM.Shop\Model\obj\Release\PZYM.Shop.Model.dll

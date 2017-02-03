@@ -1,0 +1,16 @@
+F:\培训文件\图书商城\20130729\Code\PZYM.Shop\IDAL\bin\Release\CodematicDemo.IDAL.dll
+F:\培训文件\图书商城\20130729\Code\PZYM.Shop\IDAL\bin\Release\PZYM.Shop.Model.dll
+F:\培训文件\图书商城\20130729\Code\PZYM.Shop\IDAL\obj\Release\IDAL.csprojResolveAssemblyReference.cache
+F:\培训文件\图书商城\20130729\Code\PZYM.Shop\IDAL\obj\Release\CodematicDemo.IDAL.dll
+C:\Users\PIZIYIMAO\Desktop\temp\PZYM.Shop\IDAL\bin\Release\CodematicDemo.IDAL.dll
+C:\Users\PIZIYIMAO\Desktop\temp\PZYM.Shop\IDAL\bin\Release\PZYM.Shop.Model.dll
+C:\Users\PIZIYIMAO\Desktop\temp\PZYM.Shop\IDAL\obj\Release\IDAL.csprojResolveAssemblyReference.cache
+C:\Users\PIZIYIMAO\Desktop\temp\PZYM.Shop\IDAL\obj\Release\CodematicDemo.IDAL.dll
+C:\Users\PIZIYIMAO\Desktop\上博\LuceneNet深入\PZYM.Shop\IDAL\bin\Release\CodematicDemo.IDAL.dll
+C:\Users\PIZIYIMAO\Desktop\上博\LuceneNet深入\PZYM.Shop\IDAL\bin\Release\PZYM.Shop.Model.dll
+C:\Users\PIZIYIMAO\Desktop\上博\LuceneNet深入\PZYM.Shop\IDAL\obj\Release\IDAL.csprojResolveAssemblyReference.cache
+C:\Users\PIZIYIMAO\Desktop\上博\LuceneNet深入\PZYM.Shop\IDAL\obj\Release\CodematicDemo.IDAL.dll
+C:\Users\Admin\Desktop\新建文件夹\PZYM.Shop\IDAL\bin\Release\CodematicDemo.IDAL.dll
+C:\Users\Admin\Desktop\新建文件夹\PZYM.Shop\IDAL\bin\Release\PZYM.Shop.Model.dll
+C:\Users\Admin\Desktop\新建文件夹\PZYM.Shop\IDAL\obj\Release\IDAL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\新建文件夹\PZYM.Shop\IDAL\obj\Release\CodematicDemo.IDAL.dll
